@@ -1,0 +1,37 @@
+.
+├── .eslintcache
+├── .gitignore
+├── .husky
+├── .prettierrc.json
+├── node_modules
+│   └── (many modules)
+│   └── i18next
+├── package.json
+├── public
+│   └── index.html
+├── yarn-error.log
+├── yarn.lock
+├── src
+│   ├── App.js
+│   ├── index.js
+│   ├── i18n.js
+│   ├── components
+│   │   ├── Register.js
+│   │   ├── OfficeProject.js
+│   │   ├── HomeProject.js
+│   │   ├── ProjectList.js
+│   │   ├── Login.js
+│   │   ├── BudgetCalculator.js
+│   │   ├── CustomerTypeSection.js
+│   │   ├── DesignPreferences.js
+│   │   ├── EmployeeSection.js
+│   │   ├── FurnitureRequirements.js
+│   │   ├── KitchenRequirements.js
+│   │   ├── LightingElectricalSection.js
+│   │   ├── PetFriendly.js
+│   │   ├── RecRoom.js
+│   │   └── StorageRequirementSection.js
+│   └── translations
+│       ├── he.json
+│       └── en.json
+└── react app "designBox"
